@@ -1,0 +1,10 @@
+Example programm HELLO WORLD!
+
+program hello
+	print *, "Hello World!"
+end program hello
+
+
+Compile:
+
+gfortran -c hello.f95
